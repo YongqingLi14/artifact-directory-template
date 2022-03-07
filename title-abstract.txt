@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Codenames AI
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Codenames is a popular board game that relies on word association and its ultimate goal is to connect multiple words together with a single clue word. In this paper, we construct a system that incorporates artificial intelligence into the game to allow communication between humans and AI as well as providing the capability of replacing human effort in creating such a clue word. Our project utilized three types of word relationship measurements from Word2Vec, GloVe, and WordNet, to design and understand word relationships used in this game. An AI system is built on each measurement and tested on both AI-AI and AI-Human communication performance. We evaluate the performance with each system’s average speed in finishing a game as well as its ability to accurately identify their team words. The AI-AI team performance demonstrates outstanding efficiency for AI to manage this game, and the best performing measurement is able to achieve a 60% accuracy in its communication between AI and Human.
